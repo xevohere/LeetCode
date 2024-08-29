@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/xevohere/LeetCode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/xevohere/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/xevohere/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/xevohere/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
