@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/xevohere/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/xevohere/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/xevohere/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/xevohere/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/xevohere/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
