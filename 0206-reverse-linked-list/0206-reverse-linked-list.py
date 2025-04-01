@@ -6,19 +6,15 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        #creating a temporary pointer to traverse the array
-        temp = head
+        prev = None
+        curr = head
 
-        #creating a stack uing list
-        stack = []
+        while curr is not None:
+            front = curr.next
+            curr.next = prev
 
-        while temp is not None:
-            stack.append(temp.val)
+            prev = curr
+            curr = front
+            
+        return prev
 
-            temp = temp.next
-        temp = head
-        while temp is not None:
-            temp.val = stack.pop()
-
-            temp = temp.next
-        return head
