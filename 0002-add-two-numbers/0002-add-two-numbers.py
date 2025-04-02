@@ -8,7 +8,7 @@ from typing import Optional
 
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(0)  # Changed from -1 to 0 for consistency
+        dummy = ListNode(-1)  # Changed from -1 to 0 for consistency
         curr = dummy
         carry = 0
 
