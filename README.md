@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/xevohere/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/xevohere/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/xevohere/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/xevohere/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/xevohere/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xevohere/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/xevohere/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/xevohere/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xevohere/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/xevohere/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/xevohere/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/xevohere/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/xevohere/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/xevohere/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/xevohere/LeetCode/tree/master/0056-merge-intervals) |
@@ -117,5 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xevohere/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/xevohere/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/xevohere/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
