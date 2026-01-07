@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/xevohere/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/xevohere/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/xevohere/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/xevohere/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/xevohere/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/xevohere/LeetCode/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/xevohere/LeetCode/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/xevohere/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/xevohere/LeetCode/tree/master/0197-rising-temperature) |
 | [1757-recyclable-and-low-fat-products](https://github.com/xevohere/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/xevohere/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
