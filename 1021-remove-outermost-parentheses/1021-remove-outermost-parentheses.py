@@ -1,8 +1,14 @@
 class Solution:
-    def removeOuterParentheses(self, S):
-        res, opened = [], 0
-        for c in S:
-            if c == '(' and opened > 0: res.append(c)
-            if c == ')' and opened > 1: res.append(c)
-            opened += 1 if c == '(' else -1
-        return "".join(res)
+    def removeOuterParentheses(self, s):
+        result = ""
+        count = 0
+        for ch in s:
+            if ch == "(":
+                count += 1
+                if count > 1:
+                    result += ch
+            else:
+                count -= 1
+                if count > 0:
+                    result += ch
+        return result
